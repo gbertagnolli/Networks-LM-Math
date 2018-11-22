@@ -21,8 +21,4 @@ Repository for the course material.
 During the course we will use Jupyter Notebooks, available on github.
 For those of you not having Jupyter installed on the laptop, there is [Binder](https://mybinder.org/) unabling you to interact with the notebooks in a live environment!
 
-<<<<<<< HEAD
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gbertagnolli/Networks-LM-Math/master)
-=======
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jules91/Networks-LM-Math/master)
->>>>>>> fd8e9665e2551bda43fdc75d07d0cc0a49881fd6
