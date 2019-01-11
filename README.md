@@ -14,6 +14,8 @@ Repository for the course material.
   * The Laplacian of a Graph
   * Random Walks and Graphs
 
+Material for the first part [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gbertagnolli/Networks-LM-Math/master?filepath=networks-seminar-1.ipynb)
+
 2. Network Centrality
 3. Community Detection
 4. _Current Research at CoMuNe Lab - FBK_
