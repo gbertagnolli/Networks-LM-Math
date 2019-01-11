@@ -19,6 +19,6 @@ Repository for the course material.
 4. _Current Research at CoMuNe Lab - FBK_
 
 During the course we will use Jupyter Notebooks, available on github.
-For those of you not having Jupyter installed on the laptop, there is [Binder](https://mybinder.org/) unabling you to interact with the notebooks in a live environment!
+For those of you not having Jupyter installed on the laptop, there is [Binder](https://mybinder.org/) enabling you to interact with the notebooks in a live environment!
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gbertagnolli/Networks-LM-Math/master)
