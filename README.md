@@ -16,6 +16,8 @@ Repository for the course material.
 
 Material for the first part [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gbertagnolli/Networks-LM-Math/master?filepath=networks-seminar-1.ipynb)
 
+Some exercises [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gbertagnolli/Networks-LM-Math/master?filepath=Exercises.ipynb)
+
 2. Network Centrality
 3. Community Detection
 4. _Current Research at CoMuNe Lab - FBK_
