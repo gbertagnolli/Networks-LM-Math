@@ -22,6 +22,8 @@ Some exercises [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder
 3. Community Detection
 4. _Current Research at CoMuNe Lab - FBK_
 
+Material for the second part [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gbertagnolli/Networks-LM-Math/master?filepath=networks-seminar-2.ipynb)
+
 During the course we will use Jupyter Notebooks, available on github.
 For those of you not having Jupyter installed on the laptop, there is [Binder](https://mybinder.org/) enabling you to interact with the notebooks in a live environment!
 
